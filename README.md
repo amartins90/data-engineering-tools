@@ -21,6 +21,7 @@
 ## Other Tools
 
 - [ ] [Databricks](https://docs.databricks.com/en/introduction/index.html)
+    - [ ] [Databricks Academy](https://github.com/reginaldosilva27/Databricks/blob/main/tips/DatabricksAcademy/Learning.md)
 - [ ] [dbt](https://docs.getdbt.com/docs/introduction)
 - [ ] [Pentaho](https://pentaho-public.atlassian.net/wiki/spaces/EAI/pages/372704041/Getting+Started)
 - [ ] [Presto](https://prestodb.github.io/docs/current/)
@@ -44,4 +45,3 @@
     - [ ] [Getting Started with AWS Storage](https://explore.skillbuilder.aws/learn/course/external/view/elearning/6233/getting-started-with-aws-storage)
     - [ ] [Planning Large Scale Data Migration to AWS](https://explore.skillbuilder.aws/learn/course/external/view/elearning/15545/planning-large-scale-data-migrations-to-aws)
     - [ ] [Exam Prep Standard Course: AWS Certified Data Engineer – Associate (DEA-C01)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/18546/exam-prep-standard-course-aws-certified-data-engineer-associate-dea-c01)
-- [ ] [Databricks Academy](https://github.com/reginaldosilva27/Databricks/blob/main/tips/DatabricksAcademy/Learning.md)
