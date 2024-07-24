@@ -95,87 +95,87 @@
 
 ## Object Storage
 
-    - AWS S3
-    - Azure Blob Storage
-    - Google Storage
+- AWS S3
+- Azure Blob Storage
+- Google Storage
 
 ## Data Warehouse
 
-    - Apache Hive
-    - Azure Synapse
-    - Amazon Redshift
-    - Snowflake
-    - Google BigQuery
-    - IBM DB2
-    - Apache Iceberg
+- Apache Hive
+- Azure Synapse
+- Amazon Redshift
+- Snowflake
+- Google BigQuery
+- IBM DB2
+- Apache Iceberg
 
 ## Data Processing
 
-    - Batch
-        - Apache Pig
-        - Apache Arrow
-        - Data Build Tool
-    - Hybrid
-        - Apache Spark
-        - Apache Beam
-        - Apache Flink
-        - APache NiFi
-        - Apache Hudi
-    - Streaming
-        - Apache Kafka
-        - Apache Storm
-        - Apache Samza
-        - Amazon Kinesis
+- Batch
+    - Apache Pig
+    - Apache Arrow
+    - Data Build Tool
+- Hybrid
+    - Apache Spark
+    - Apache Beam
+    - Apache Flink
+    - APache NiFi
+    - Apache Hudi
+- Streaming
+    - Apache Kafka
+    - Apache Storm
+    - Apache Samza
+    - Amazon Kinesis
 
 ## Workflow Scheduling
 
-    - Apache Airflow
-    - Google Composer
-    - Apache Luigi
-    - Apache Oozie
+- Apache Airflow
+- Google Composer
+- Apache Luigi
+- Apache Oozie
 
 ## Cluster Computing
 
-    - Apache Hadoop
-        - Amazon EMR
-        - Google Dataproc
-        - Azure Data Lake
-    - Apache Spark
-    - Apache Flink
-    - Apache Impala
+- Apache Hadoop
+    - Amazon EMR
+    - Google Dataproc
+    - Azure Data Lake
+- Apache Spark
+- Apache Flink
+- Apache Impala
 
 ## Monitoring Data Pipeline
 
-    - Prometheus
-    - Datadog
-    - Sentry
-    - StatsD
-    - Apache Zookeeper
+- Prometheus
+- Datadog
+- Sentry
+- StatsD
+- Apache Zookeeper
 
 ## Messaging
 
-    - Amazon SNS & SQS
-    - Google PubSub
-    - Azure Service Blues
-    - RabbitMQ
-    - Apache ActiveMQ
+- Amazon SNS & SQS
+- Google PubSub
+- Azure Service Blues
+- RabbitMQ
+- Apache ActiveMQ
 
 ## Dataviz
 
-    - Tableau
-    - Looker
-    - Grafana
-    - Jupyter Notebook
-    - Power BI
+- Tableau
+- Looker
+- Grafana
+- Jupyter Notebook
+- Power BI
 
 ## CI/CD
 
-    - GitHub Actions
-    - Jenkins
+- GitHub Actions
+- Jenkins
 
 ## Data Security & Privacy
 
-    - Legal Compliance
-    - Encryption
-    - Key Management
-    - Data Governance & Integrity
+- Legal Compliance
+- Encryption
+- Key Management
+- Data Governance & Integrity
