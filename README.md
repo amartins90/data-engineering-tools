@@ -94,11 +94,13 @@
     - Google Bigtable
 
 ## Object Storage
+
     - AWS S3
     - Azure Blob Storage
     - Google Storage
 
 ## Data Warehouse
+
     - Apache Hive
     - Azure Synapse
     - Amazon Redshift
@@ -108,6 +110,7 @@
     - Apache Iceberg
 
 ## Data Processing
+
     - Batch
         - Apache Pig
         - Apache Arrow
@@ -125,12 +128,14 @@
         - Amazon Kinesis
 
 ## Workflow Scheduling
+
     - Apache Airflow
     - Google Composer
     - Apache Luigi
     - Apache Oozie
 
 ## Cluster Computing
+
     - Apache Hadoop
         - Amazon EMR
         - Google Dataproc
@@ -140,6 +145,7 @@
     - Apache Impala
 
 ## Monitoring Data Pipeline
+
     - Prometheus
     - Datadog
     - Sentry
@@ -147,6 +153,7 @@
     - Apache Zookeeper
 
 ## Messaging
+
     - Amazon SNS & SQS
     - Google PubSub
     - Azure Service Blues
@@ -154,6 +161,7 @@
     - Apache ActiveMQ
 
 ## Dataviz
+
     - Tableau
     - Looker
     - Grafana
@@ -161,10 +169,12 @@
     - Power BI
 
 ## CI/CD
+
     - GitHub Actions
     - Jenkins
 
 ## Data Security & Privacy
+
     - Legal Compliance
     - Encryption
     - Key Management
